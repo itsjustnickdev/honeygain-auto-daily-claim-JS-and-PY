@@ -190,7 +190,7 @@ Failure example:
 ## ❤️ Support / Donate
 If this saves you time, consider supporting:
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/@ppblackforthosting)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/DropsIT)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/itsjustnickdev)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/itsjustnickdev)
 
@@ -209,6 +209,6 @@ For paper mail, please reach out via email to request a postal address.
 
 ## 🙌 Credits
 Created by [itsjustnickdev](https://buymeacoffee.com/itsjustnickdev) · Support via
-[PayPal](https://paypal.me/@ppblackforthosting),
+[PayPal](https://paypal.me/DropsIT),
 [Buy Me a Coffee](https://buymeacoffee.com/itsjustnickdev),
 or [Ko‑fi](https://ko-fi.com/itsjustnickdev).
