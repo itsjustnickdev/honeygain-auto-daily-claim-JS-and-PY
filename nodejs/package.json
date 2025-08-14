@@ -21,5 +21,14 @@
     "embed",
     "automation"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "author": {
+    "name": "itsjustnickdev",
+    "url": "https://buymeacoffee.com/itsjustnickdev"
+  },
+  "funding": [
+    { "type": "paypal", "url": "https://paypal.me/@ppblackforthosting" },
+    { "type": "buymeacoffee", "url": "https://buymeacoffee.com/itsjustnickdev" },
+    { "type": "ko-fi", "url": "https://ko-fi.com/itsjustnickdev" }
+  ]
 }
