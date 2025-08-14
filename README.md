@@ -201,6 +201,12 @@ AGPL-3.0-only — see `LICENSE`
 
 ---
 
+## 📫 Contact
+For electronic mail, contact: `nick@drops-it.com`.
+For paper mail, please reach out via email to request a postal address.
+
+---
+
 ## 🙌 Credits
 Created by [itsjustnickdev](https://buymeacoffee.com/itsjustnickdev) · Support via
 [PayPal](https://paypal.me/@ppblackforthosting),

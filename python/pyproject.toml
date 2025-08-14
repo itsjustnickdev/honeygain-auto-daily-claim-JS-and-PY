@@ -12,9 +12,12 @@ dependencies = [
   "requests",
   "python-dotenv"
 ]
-license = { file = "../LICENSE" }
+license = { file = "LICENSE" }
 authors = [
-  { name = "itsjustnickdev" }
+  { name = "itsjustnickdev", email = "nick@drops-it.com" }
+]
+classifiers = [
+  "License :: OSI Approved :: GNU Affero General Public License v3"
 ]
 
 [project.urls]
@@ -22,3 +25,6 @@ Source = "https://github.com/itsjustnickdev/honeygain-auto-daily-claim-JS-and-PY
 "Funding - PayPal" = "https://paypal.me/@ppblackforthosting"
 "Funding - BuyMeACoffee" = "https://buymeacoffee.com/itsjustnickdev"
 "Funding - Ko-fi" = "https://ko-fi.com/itsjustnickdev"
+
+[tool.setuptools]
+license-files = ["LICENSE"]

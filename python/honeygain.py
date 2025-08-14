@@ -1,3 +1,7 @@
+# SPDX-License-Identifier: AGPL-3.0-only
+# Copyright (c) 2025 itsjustnickdev
+# Author: itsjustnickdev <nick@drops-it.com>
+# Contact: nick@drops-it.com
 import requests
 from requests.structures import CaseInsensitiveDict
 import os
