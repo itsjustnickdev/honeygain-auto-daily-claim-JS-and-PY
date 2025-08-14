@@ -1,0 +1,25 @@
+{
+  "name": "honeygain-auto-daily-claim",
+  "version": "1.0.0",
+  "description": "Honeygain auto daily claim notifier that posts rich embeds to Discord",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node honeygain.js",
+    "dev": "node --watch honeygain.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  },
+  "keywords": [
+    "honeygain",
+    "discord",
+    "webhook",
+    "embed",
+    "automation"
+  ],
+  "license": "Apache-2.0"
+}
