@@ -12,13 +12,13 @@ dependencies = [
   "requests",
   "python-dotenv"
 ]
-license = { text = "Apache-2.0" }
+license = { file = "../LICENSE" }
 authors = [
   { name = "itsjustnickdev" }
 ]
 
 [project.urls]
-Source = "https://github.com/your/repo"
+Source = "https://github.com/itsjustnickdev/honeygain-auto-daily-claim-JS-and-PY"
 "Funding - PayPal" = "https://paypal.me/@ppblackforthosting"
 "Funding - BuyMeACoffee" = "https://buymeacoffee.com/itsjustnickdev"
 "Funding - Ko-fi" = "https://ko-fi.com/itsjustnickdev"

@@ -2,7 +2,7 @@
 
 [![Node >= 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)](#-nodejs-version-nodejs)
 [![Python >= 3.9](https://img.shields.io/badge/python-%3E%3D3.9-3776AB?logo=python&logoColor=white)](#-python-version-python)
-[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue)](#-license)
+[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue)](#-license)
 
 Automates Honeygain's daily reward and posts a clean, rich Discord embed. Sends the ping in a separate message to keep the embed tidy. Two implementations are provided:
 - `nodejs/` (Node.js v18+)
@@ -197,7 +197,7 @@ If this saves you time, consider supporting:
 ---
 
 ## 📄 License
-Apache-2.0
+AGPL-3.0-only — see `LICENSE`
 
 ---
 
